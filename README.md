@@ -5,4 +5,4 @@ The objective here is to identify from a image that whether the person is wearin
 The goal is to create a convolutional neural networks that detect the presence of mask.
 Models: 
 * VGG16 from Keras
-* Moified CNN taking inspiration from VGG16 Structure
+* Modified CNN taking inspiration from VGG16 Structure
